@@ -23,3 +23,10 @@ if total2 == 1000:
         print(correct_answer)
 else:
     print(wrong_answer)
+    n = 50
+    m = -50
+    total3 = n + m 
+if total3 == 0:
+    print(correct_answer)
+else:
+    print(wrong_answer)
