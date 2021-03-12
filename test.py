@@ -1,5 +1,5 @@
-correct_answer = "s i m"
-wrong_answer = "n a o"
+correct_answer = "sim xd"
+wrong_answer = "nao lol"
 a = 100
 b = -100
 total = a + b
