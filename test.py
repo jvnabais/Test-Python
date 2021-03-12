@@ -1,5 +1,5 @@
-correct_answer = "Correto!"
-wrong_answer = "Errado!"
+correct_answer = "s i m"
+wrong_answer = "n a o"
 a = 100
 b = -100
 total = a + b
