@@ -1,1 +1,1 @@
-Isto é um teste de python para eu e a minha mãe treinarmos python!!!
+This is a Python Test!
