@@ -1,5 +1,5 @@
-correct_answer = "sim xd"
-wrong_answer = "nao lol"
+correct_answer = "correto"
+wrong_answer = "errado"
 a = 100
 b = -100
 total = a + b
