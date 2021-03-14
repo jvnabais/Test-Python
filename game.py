@@ -41,7 +41,7 @@ while not game_over:
             player_pos = [x,y]
 
     screen.fill(BACKGROUND_COLOR)
-    pygame.draw.rect(screen, BLUE, (enemy_pos[0], enemy_pos[1], enemy_size, enemy_size) )
+    pygame.draw.rect(screen, BLUE, (enemy_pos[0], enemy_pos[1], enemy_size, enemy_size))
     pygame.draw.rect(screen, RED, (player_pos[0], player_pos[1], player_size, player_size))
 
     pygame.display.update()
