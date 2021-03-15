@@ -108,7 +108,7 @@ while not game_over:
 
 	text = "High Score:" + str(score)
 	label = myFont.render(text, 1, YELLOW)
-	screen.blit(label, (WIDTH-200, HEIGHT-40))
+	screen.blit(label, (WIDTH-300, HEIGHT-40))
 
 	if collision_check(enemy_list, player_pos):
 		game_over = True

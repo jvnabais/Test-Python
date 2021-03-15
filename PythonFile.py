@@ -6,7 +6,7 @@ total = a + b
 if total == 0:
     print(correct_answer)
 else:
-        print(wrong_answer)
+    print(wrong_answer)
 
 d = 20
 s = -20
@@ -20,7 +20,7 @@ g = 10
 j = 20000
 total2 = g + j
 if total2 == 1000:
-        print(correct_answer)
+    print(correct_answer)
 else:
     print(wrong_answer)
     n = 50
@@ -35,9 +35,9 @@ y = 80
 z = -80
 total4 = y + z
 if total4 == 0:
-        print(correct_answer)
+    print(correct_answer)
 else:
-        print(wrong_answer)
+    print(wrong_answer)
 o = 20
 p = -20
 total5 = o + p
