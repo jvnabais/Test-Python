@@ -77,8 +77,8 @@ if input11 == "João":
     print("Correto!")
     score = score + 1
     print("Tu tens", score, "respostas certas em 10 perguntas")
-    input("Bom trabalho!")
+    input("Bom trabalho!!!")
 else:
     print("Errado!")
     print("Tu tens", score, "respostas certas em 10 perguntas")
-    input("Bom Trabalho!")
+    input("Bom Trabalho!!!")
