@@ -1,5 +1,6 @@
-input1 = input("Test:")
-if input1 == "subscribe":
-    print("Thanks")
+input1 = input("Subscribe: ")
+if input1 == "ok":
+    print("Thanks!")
 else:
-    print("Like")
+    print(";(")
+input("Good Job")
