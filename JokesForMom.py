@@ -12,7 +12,7 @@ else:
     print("Uma coisa muito comum cá em casa")
 
 input2 = input("Resposta: ")
-if input2 == "pergiça":
+if input2 == "preguiça":
     print("ahahahahahaha")
     input("HAHAHAHAHHAHA")
     score = score+1
