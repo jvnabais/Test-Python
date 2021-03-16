@@ -17,6 +17,6 @@ if input2 == "preguiça":
     input("HAHAHAHAHHAHA")
     score = score+1
 else:
-    print("A RERPOSTA ERA PERGIÇA HAHAHAHAHA")
+    print("A RERPOSTA ERA PREGUIÇA HAHAHAHAHA")
     print("TU TENS", score, "RESPOSTAS CERTAS AHJAHAHAHA")
     input("hahah bom trabalho <:")
