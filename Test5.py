@@ -1,6 +1,12 @@
+# Values
+rules = "Please answer with ok or no"
+good_ending = "Thanks dude!"
+bad_ending = "YOU MADE ME SAD AAAAAAAA"
+
+# answers and questions
+print(rules)
 input1 = input("Subscribe: ")
 if input1 == "ok":
-    print("Thanks!")
-    input(";)))))")
+    input(good_ending)
 if input1 == "no":
-    input("Why;(")
+    input(bad_ending)
