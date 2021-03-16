@@ -1,6 +1,6 @@
 input1 = input("Subscribe: ")
 if input1 == "ok":
     print("Thanks!")
-else:
-    print(";(")
-input("Good Job")
+    input(";)))))")
+if input1 == "no":
+    input("Why;(")
