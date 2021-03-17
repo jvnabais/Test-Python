@@ -2,6 +2,6 @@ print("Quizz de História de Portugal")
 print("Pergunta")
 input1 = input("Resposta: ")
 if input1 == "Resposta correta":
-    print("Correto!")
+    print("Correto")
 else:
-    print("Errado!")
+    print("Errado")
